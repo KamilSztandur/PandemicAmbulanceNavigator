@@ -1,0 +1,3 @@
+class PresentationEvent {
+  const PresentationEvent();
+}

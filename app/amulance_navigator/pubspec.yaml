@@ -1,0 +1,26 @@
+name: amulance_navigator
+description: A new Flutter project.
+
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  meta: ^1.2.4
+  poly: ^1.0.5
+  image: ^2.1.19
+  dart_numerics: ^0.0.5
+  flutter_bloc: ^6.1.1
+  file_picker_cross: ^4.2.7
+  mockito: ^4.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
